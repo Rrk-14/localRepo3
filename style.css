@@ -1,0 +1,10 @@
+h1{
+    background-color: brown;
+    text-align: center;
+     text-wrap: var(center);
+}
+
+p{
+    background-color: blue;
+    text-align: justify;
+}
